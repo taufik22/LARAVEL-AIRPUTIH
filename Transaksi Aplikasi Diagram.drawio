@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T03:56:15.455Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="KiAMZxDbXc7n95F1IEyM" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T03:58:14.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="TlzEcQkwZucLlLZ1L-ib" version="14.7.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1426" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="NLEsf8d0Clt0r1izO-Jv-43" value="logout" style="ellipse;whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-11" vertex="1">
           <mxGeometry x="110" y="290" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n5_1aD1Sy1dS3LP6mycE-6" value="email / wa notifikasi penolakan" style="whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-11">
+        <mxCell id="n5_1aD1Sy1dS3LP6mycE-6" value="email / wa notifikasi" style="whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-11">
           <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NLEsf8d0Clt0r1izO-Jv-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-3" source="NLEsf8d0Clt0r1izO-Jv-9" target="NLEsf8d0Clt0r1izO-Jv-31" edge="1">
