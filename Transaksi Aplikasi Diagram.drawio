@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T10:55:18.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="8le8yqqw3rXYCkIa5UPj" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T10:55:55.241Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="LCg9DcJBMZUNesQFeT0N" version="14.7.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1426" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -268,7 +268,7 @@
         <mxCell id="n5_1aD1Sy1dS3LP6mycE-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n5_1aD1Sy1dS3LP6mycE-74" target="n5_1aD1Sy1dS3LP6mycE-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n5_1aD1Sy1dS3LP6mycE-74" value="sistem mengurangi dana gaji" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n5_1aD1Sy1dS3LP6mycE-74" value="sistem mengurangi dana gaji karyawan" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n5_1aD1Sy1dS3LP6mycE-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n5_1aD1Sy1dS3LP6mycE-45" target="n5_1aD1Sy1dS3LP6mycE-74">
