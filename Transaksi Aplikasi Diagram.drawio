@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T14:53:25.893Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="JDxQRtTRxwy6twZ5gXsG" version="14.7.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-13T14:55:03.036Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="OGJd02CLSExtvKtxNrA1" version="14.7.7" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1426" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -338,7 +338,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ggVmiQY-6NZ9ajGvA-hx-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Web Dashboard (4)&lt;br&gt;(Laravel 8 + Vue)&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="_mMjdWACrZiV3DKXEfCX-1">
-          <mxGeometry x="360" y="160" width="140" height="60" as="geometry" />
+          <mxGeometry x="350" y="160" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ggVmiQY-6NZ9ajGvA-hx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_mMjdWACrZiV3DKXEfCX-1" source="ggVmiQY-6NZ9ajGvA-hx-6" target="_mMjdWACrZiV3DKXEfCX-5">
           <mxGeometry relative="1" as="geometry" />
