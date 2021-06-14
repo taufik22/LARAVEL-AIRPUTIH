@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T04:25:08.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="RJQUX3Mn6H-_yfGvczhp" version="14.7.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-14T04:49:02.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="TRxRRSaft5DRufiw57j_" version="14.7.7" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -272,14 +272,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7k527uBBUkMGL3hLVb4U" name="Page-2">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_mMjdWACrZiV3DKXEfCX-0" />
         <mxCell id="_mMjdWACrZiV3DKXEfCX-1" parent="_mMjdWACrZiV3DKXEfCX-0" />
         <mxCell id="_mMjdWACrZiV3DKXEfCX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-2" target="_mMjdWACrZiV3DKXEfCX-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_mMjdWACrZiV3DKXEfCX-2" value="Pengembang Apps" style="rounded=1;whiteSpace=wrap;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
+        <mxCell id="_mMjdWACrZiV3DKXEfCX-2" value="Pengembang Apps&lt;br&gt;(super admin dan admin)" style="rounded=1;whiteSpace=wrap;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
           <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_mMjdWACrZiV3DKXEfCX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-3" target="_mMjdWACrZiV3DKXEfCX-10" edge="1">
