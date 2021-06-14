@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T02:52:11.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="YNfXrOVqiF62p4OUfB7N" version="14.7.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-14T04:25:08.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="RJQUX3Mn6H-_yfGvczhp" version="14.7.7" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1678" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,10 +58,10 @@
         <mxCell id="NLEsf8d0Clt0r1izO-Jv-35" value="admin PT check absensi kerja" style="whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
           <mxGeometry x="180" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n5_1aD1Sy1dS3LP6mycE-4" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3nuBFxr9cyL0pnOWT2aG-8" source="NLEsf8d0Clt0r1izO-Jv-45" target="NLEsf8d0Clt0r1izO-Jv-41" edge="1">
+        <mxCell id="n5_1aD1Sy1dS3LP6mycE-4" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3nuBFxr9cyL0pnOWT2aG-8" source="NLEsf8d0Clt0r1izO-Jv-45" target="NLEsf8d0Clt0r1izO-Jv-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NLEsf8d0Clt0r1izO-Jv-45" value="ditemukan kecurangan ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
+        <mxCell id="NLEsf8d0Clt0r1izO-Jv-45" value="setujui / tidak" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
           <mxGeometry x="180" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NLEsf8d0Clt0r1izO-Jv-41" value="admin melakukan penolakan" style="whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
@@ -76,7 +76,7 @@
         <mxCell id="n5_1aD1Sy1dS3LP6mycE-8" value="proses record dan approval" style="whiteSpace=wrap;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-8" vertex="1">
           <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n5_1aD1Sy1dS3LP6mycE-9" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="3nuBFxr9cyL0pnOWT2aG-8" source="NLEsf8d0Clt0r1izO-Jv-45" target="n5_1aD1Sy1dS3LP6mycE-8" edge="1">
+        <mxCell id="n5_1aD1Sy1dS3LP6mycE-9" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="3nuBFxr9cyL0pnOWT2aG-8" source="NLEsf8d0Clt0r1izO-Jv-45" target="n5_1aD1Sy1dS3LP6mycE-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="160" y="270" />
@@ -240,7 +240,7 @@
         <mxCell id="NLEsf8d0Clt0r1izO-Jv-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NLEsf8d0Clt0r1izO-Jv-27" target="NLEsf8d0Clt0r1izO-Jv-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NLEsf8d0Clt0r1izO-Jv-27" value="mengajukan penarikan / pinjaman" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NLEsf8d0Clt0r1izO-Jv-27" value="mengajukan penarikan / pinjaman&lt;br&gt;(max pinjaman)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NLEsf8d0Clt0r1izO-Jv-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NLEsf8d0Clt0r1izO-Jv-25" target="NLEsf8d0Clt0r1izO-Jv-27" edge="1">
@@ -272,7 +272,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7k527uBBUkMGL3hLVb4U" name="Page-2">
-    <mxGraphModel dx="1426" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_mMjdWACrZiV3DKXEfCX-0" />
         <mxCell id="_mMjdWACrZiV3DKXEfCX-1" parent="_mMjdWACrZiV3DKXEfCX-0" />
@@ -301,7 +301,7 @@
         <mxCell id="_mMjdWACrZiV3DKXEfCX-4" value="database main (1)&lt;br&gt;(AWS)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
           <mxGeometry x="335" y="420" width="85" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="9B3jZ9CjMzc1ieWYlWdo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-5" target="_mMjdWACrZiV3DKXEfCX-4">
+        <mxCell id="9B3jZ9CjMzc1ieWYlWdo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-5" target="_mMjdWACrZiV3DKXEfCX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_mMjdWACrZiV3DKXEfCX-5" value="API (3)&lt;br&gt;Lumen" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
@@ -344,44 +344,44 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lY46OVQcws9YCETODOx7" name="Page-3">
-    <mxGraphModel dx="1426" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="jQUeqWn6JI_pUbtw5hn8-0" />
         <mxCell id="jQUeqWn6JI_pUbtw5hn8-1" parent="jQUeqWn6JI_pUbtw5hn8-0" />
-        <mxCell id="jQUeqWn6JI_pUbtw5hn8-2" value="Table User Karyawan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
+        <mxCell id="jQUeqWn6JI_pUbtw5hn8-2" value="Table User Karyawan" style="rounded=0;whiteSpace=wrap;html=1;" parent="jQUeqWn6JI_pUbtw5hn8-1" vertex="1">
           <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jQUeqWn6JI_pUbtw5hn8-3" value="Table User (Pengembang)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
+        <mxCell id="jQUeqWn6JI_pUbtw5hn8-3" value="Table User (Pengembang)" style="rounded=0;whiteSpace=wrap;html=1;" parent="jQUeqWn6JI_pUbtw5hn8-1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jQUeqWn6JI_pUbtw5hn8-4" value="Table User Perusahaan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
+        <mxCell id="jQUeqWn6JI_pUbtw5hn8-4" value="Table User Perusahaan" style="rounded=0;whiteSpace=wrap;html=1;" parent="jQUeqWn6JI_pUbtw5hn8-1" vertex="1">
           <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jQUeqWn6JI_pUbtw5hn8-5" value="Table Lokasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
+        <mxCell id="jQUeqWn6JI_pUbtw5hn8-5" value="Table Lokasi" style="rounded=0;whiteSpace=wrap;html=1;" parent="jQUeqWn6JI_pUbtw5hn8-1" vertex="1">
           <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jQUeqWn6JI_pUbtw5hn8-6" value="Table Gaji" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
+        <mxCell id="jQUeqWn6JI_pUbtw5hn8-6" value="Table Gaji" style="rounded=0;whiteSpace=wrap;html=1;" parent="jQUeqWn6JI_pUbtw5hn8-1" vertex="1">
           <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jQUeqWn6JI_pUbtw5hn8-7" value="Table Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
+        <mxCell id="jQUeqWn6JI_pUbtw5hn8-7" value="Table Storage" style="rounded=0;whiteSpace=wrap;html=1;" parent="jQUeqWn6JI_pUbtw5hn8-1" vertex="1">
           <mxGeometry x="630" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EHHnkchS-X5tjJEigry2-0" value="Table Notifikasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
+        <mxCell id="EHHnkchS-X5tjJEigry2-0" value="Table Notifikasi" style="rounded=0;whiteSpace=wrap;html=1;" parent="jQUeqWn6JI_pUbtw5hn8-1" vertex="1">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EHHnkchS-X5tjJEigry2-1" value="Table Log" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
+        <mxCell id="EHHnkchS-X5tjJEigry2-1" value="Table Log" style="rounded=0;whiteSpace=wrap;html=1;" parent="jQUeqWn6JI_pUbtw5hn8-1" vertex="1">
           <mxGeometry x="630" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EHHnkchS-X5tjJEigry2-2" value="Table Transaksi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
+        <mxCell id="EHHnkchS-X5tjJEigry2-2" value="Table Transaksi" style="rounded=0;whiteSpace=wrap;html=1;" parent="jQUeqWn6JI_pUbtw5hn8-1" vertex="1">
           <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u5u9RSNN3j1NRUpliY5c-0" value="Table SEO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
+        <mxCell id="u5u9RSNN3j1NRUpliY5c-0" value="Table SEO" style="rounded=0;whiteSpace=wrap;html=1;" parent="jQUeqWn6JI_pUbtw5hn8-1" vertex="1">
           <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="If1gcgbyz0EWsqufeuP7-0" value="Table Transfer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
+        <mxCell id="If1gcgbyz0EWsqufeuP7-0" value="Table Transfer" style="rounded=0;whiteSpace=wrap;html=1;" parent="jQUeqWn6JI_pUbtw5hn8-1" vertex="1">
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="If1gcgbyz0EWsqufeuP7-1" value="Table Rekening" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
+        <mxCell id="If1gcgbyz0EWsqufeuP7-1" value="Table Rekening" style="rounded=0;whiteSpace=wrap;html=1;" parent="jQUeqWn6JI_pUbtw5hn8-1" vertex="1">
           <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
