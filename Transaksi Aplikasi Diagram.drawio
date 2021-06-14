@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T02:47:47.017Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Z3QCD-J00D4Zv-nDxSpm" version="14.7.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-14T02:52:11.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="YNfXrOVqiF62p4OUfB7N" version="14.7.7" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1678" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -377,6 +377,12 @@
         </mxCell>
         <mxCell id="u5u9RSNN3j1NRUpliY5c-0" value="Table SEO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
           <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="If1gcgbyz0EWsqufeuP7-0" value="Table Transfer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="If1gcgbyz0EWsqufeuP7-1" value="Table Rekening" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jQUeqWn6JI_pUbtw5hn8-1">
+          <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
