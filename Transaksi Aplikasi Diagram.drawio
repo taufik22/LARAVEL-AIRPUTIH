@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T02:14:26.365Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="l2AAmt7CP1KqOlL5Wj2i" version="14.7.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-14T02:15:14.361Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="mq3LBZXbWTKTGm2hcmpo" version="14.7.7" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1678" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -299,21 +299,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_mMjdWACrZiV3DKXEfCX-4" value="database main (1)&lt;br&gt;(AWS)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
-          <mxGeometry x="335" y="420" width="60" height="140" as="geometry" />
+          <mxGeometry x="335" y="420" width="85" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="_mMjdWACrZiV3DKXEfCX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-5" target="_mMjdWACrZiV3DKXEfCX-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="450" y="360" />
-              <mxPoint x="359" y="360" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="9B3jZ9CjMzc1ieWYlWdo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-5" target="_mMjdWACrZiV3DKXEfCX-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_mMjdWACrZiV3DKXEfCX-5" value="API (3)&lt;br&gt;Lumen" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
           <mxGeometry x="390" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_mMjdWACrZiV3DKXEfCX-6" value="database cloning (7)&lt;br&gt;(AWS)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
-          <mxGeometry x="455" y="420" width="60" height="140" as="geometry" />
+          <mxGeometry x="455" y="420" width="85" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ggVmiQY-6NZ9ajGvA-hx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-9" target="_mMjdWACrZiV3DKXEfCX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
