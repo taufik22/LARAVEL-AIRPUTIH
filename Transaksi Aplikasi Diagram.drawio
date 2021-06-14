@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T02:11:32.816Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="rUstq_Jk-6NSKJztaUFQ" version="14.7.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-14T02:11:56.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="hO3qLEXRautouUekHy7O" version="14.7.7" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1678" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="n5_1aD1Sy1dS3LP6mycE-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3nuBFxr9cyL0pnOWT2aG-4" source="NLEsf8d0Clt0r1izO-Jv-9" target="n5_1aD1Sy1dS3LP6mycE-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="Transaksi" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="Aplikasi Transaksi" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;" parent="3nuBFxr9cyL0pnOWT2aG-3" vertex="1">
           <mxGeometry x="280" width="560" height="440" as="geometry" />
         </mxCell>
         <mxCell id="n5_1aD1Sy1dS3LP6mycE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3nuBFxr9cyL0pnOWT2aG-8" source="NLEsf8d0Clt0r1izO-Jv-31" target="NLEsf8d0Clt0r1izO-Jv-35" edge="1">
