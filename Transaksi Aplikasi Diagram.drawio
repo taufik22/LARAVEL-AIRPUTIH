@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T02:11:56.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="hO3qLEXRautouUekHy7O" version="14.7.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-14T02:14:26.365Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="l2AAmt7CP1KqOlL5Wj2i" version="14.7.7" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1678" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -276,32 +276,32 @@
       <root>
         <mxCell id="_mMjdWACrZiV3DKXEfCX-0" />
         <mxCell id="_mMjdWACrZiV3DKXEfCX-1" parent="_mMjdWACrZiV3DKXEfCX-0" />
-        <mxCell id="_mMjdWACrZiV3DKXEfCX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-2" target="_mMjdWACrZiV3DKXEfCX-9">
+        <mxCell id="_mMjdWACrZiV3DKXEfCX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-2" target="_mMjdWACrZiV3DKXEfCX-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_mMjdWACrZiV3DKXEfCX-2" value="Pengembang Apps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_mMjdWACrZiV3DKXEfCX-1">
+        <mxCell id="_mMjdWACrZiV3DKXEfCX-2" value="Pengembang Apps" style="rounded=1;whiteSpace=wrap;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
           <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_mMjdWACrZiV3DKXEfCX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-3" target="_mMjdWACrZiV3DKXEfCX-10">
+        <mxCell id="_mMjdWACrZiV3DKXEfCX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-3" target="_mMjdWACrZiV3DKXEfCX-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="770" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-3" target="ggVmiQY-6NZ9ajGvA-hx-6">
+        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-3" target="ggVmiQY-6NZ9ajGvA-hx-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_mMjdWACrZiV3DKXEfCX-3" value="Karyawan A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_mMjdWACrZiV3DKXEfCX-1">
+        <mxCell id="_mMjdWACrZiV3DKXEfCX-3" value="Karyawan A" style="rounded=1;whiteSpace=wrap;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
           <mxGeometry x="710" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_mMjdWACrZiV3DKXEfCX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-4" target="_mMjdWACrZiV3DKXEfCX-6">
+        <mxCell id="_mMjdWACrZiV3DKXEfCX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-4" target="_mMjdWACrZiV3DKXEfCX-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_mMjdWACrZiV3DKXEfCX-4" value="database main (1)&lt;br&gt;(AWS)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="_mMjdWACrZiV3DKXEfCX-1">
+        <mxCell id="_mMjdWACrZiV3DKXEfCX-4" value="database main (1)&lt;br&gt;(AWS)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
           <mxGeometry x="335" y="420" width="60" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="_mMjdWACrZiV3DKXEfCX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-5" target="_mMjdWACrZiV3DKXEfCX-4">
+        <mxCell id="_mMjdWACrZiV3DKXEfCX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-5" target="_mMjdWACrZiV3DKXEfCX-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="450" y="360" />
@@ -309,40 +309,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_mMjdWACrZiV3DKXEfCX-5" value="API (3)&lt;br&gt;Lumen" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="_mMjdWACrZiV3DKXEfCX-1">
+        <mxCell id="_mMjdWACrZiV3DKXEfCX-5" value="API (3)&lt;br&gt;Lumen" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
           <mxGeometry x="390" y="270" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_mMjdWACrZiV3DKXEfCX-6" value="database cloning (7)&lt;br&gt;(AWS)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="_mMjdWACrZiV3DKXEfCX-1">
+        <mxCell id="_mMjdWACrZiV3DKXEfCX-6" value="database cloning (7)&lt;br&gt;(AWS)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
           <mxGeometry x="455" y="420" width="60" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-9" target="_mMjdWACrZiV3DKXEfCX-4">
+        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-9" target="_mMjdWACrZiV3DKXEfCX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_mMjdWACrZiV3DKXEfCX-9" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Web Dashboard (2)&lt;br&gt;(Laravel 8 + Vue)&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="_mMjdWACrZiV3DKXEfCX-1">
+        <mxCell id="_mMjdWACrZiV3DKXEfCX-9" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Web Dashboard (2)&lt;br&gt;(Laravel 8 + Vue)&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
           <mxGeometry x="110" y="280" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_mMjdWACrZiV3DKXEfCX-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-10" target="_mMjdWACrZiV3DKXEfCX-5">
+        <mxCell id="_mMjdWACrZiV3DKXEfCX-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" source="_mMjdWACrZiV3DKXEfCX-10" target="_mMjdWACrZiV3DKXEfCX-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_mMjdWACrZiV3DKXEfCX-10" value="Aplikasi Mobile (6)&amp;nbsp;&lt;br&gt;Nuxt Mobile &lt;br&gt;(Android)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="_mMjdWACrZiV3DKXEfCX-1">
+        <mxCell id="_mMjdWACrZiV3DKXEfCX-10" value="Aplikasi Mobile (6)&amp;nbsp;&lt;br&gt;Nuxt Mobile &lt;br&gt;(Android)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
           <mxGeometry x="590" y="280" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_mMjdWACrZiV3DKXEfCX-1" source="ggVmiQY-6NZ9ajGvA-hx-0" target="ggVmiQY-6NZ9ajGvA-hx-2">
+        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" source="ggVmiQY-6NZ9ajGvA-hx-0" target="ggVmiQY-6NZ9ajGvA-hx-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-0" value="Perusahaan A&lt;br&gt;Admin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_mMjdWACrZiV3DKXEfCX-1">
+        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-0" value="Perusahaan A&lt;br&gt;Admin" style="rounded=1;whiteSpace=wrap;html=1;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
           <mxGeometry x="360" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_mMjdWACrZiV3DKXEfCX-1" source="ggVmiQY-6NZ9ajGvA-hx-2" target="_mMjdWACrZiV3DKXEfCX-5">
+        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_mMjdWACrZiV3DKXEfCX-1" source="ggVmiQY-6NZ9ajGvA-hx-2" target="_mMjdWACrZiV3DKXEfCX-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Web Dashboard (4)&lt;br&gt;(Laravel 8 + Vue)&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="_mMjdWACrZiV3DKXEfCX-1">
-          <mxGeometry x="350" y="160" width="140" height="60" as="geometry" />
+        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Web Dashboard (4)&lt;br&gt;(Laravel 8 + Vue / Nuxt)&lt;br&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
+          <mxGeometry x="335" y="160" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_mMjdWACrZiV3DKXEfCX-1" source="ggVmiQY-6NZ9ajGvA-hx-6" target="_mMjdWACrZiV3DKXEfCX-5">
+        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_mMjdWACrZiV3DKXEfCX-1" source="ggVmiQY-6NZ9ajGvA-hx-6" target="_mMjdWACrZiV3DKXEfCX-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-6" value="Aplikasi Web (5)&lt;br&gt;Vue / Nuxt" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="_mMjdWACrZiV3DKXEfCX-1">
+        <mxCell id="ggVmiQY-6NZ9ajGvA-hx-6" value="Aplikasi Web (5)&lt;br&gt;Vue / Nuxt" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="_mMjdWACrZiV3DKXEfCX-1" vertex="1">
           <mxGeometry x="600" y="190" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
